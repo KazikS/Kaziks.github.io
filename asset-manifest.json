@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3e18afe.css",
+    "main.js": "/static/js/main.0fcc2120.js",
+    "static/js/453.19adbc00.chunk.js": "/static/js/453.19adbc00.chunk.js",
+    "static/media/avatar.jpg": "/static/media/avatar.05511c6865a18138e86b.jpg",
+    "static/media/electron.svg": "/static/media/electron.09438cd87779d65aea1eada08d5702c4.svg",
+    "static/media/github.svg": "/static/media/github.846fc145e518d3d603e90a4028e0b377.svg",
+    "static/media/react.svg": "/static/media/react.f57b349b4d9df56c9b48c916a8d5adfb.svg",
+    "static/media/unity.svg": "/static/media/unity.b0b54e3e5d5d4ab117f818422019a871.svg",
+    "static/media/leetcode.svg": "/static/media/leetcode.d97025c385b25098592cfcb8e14c3ef1.svg",
+    "static/media/vk.svg": "/static/media/vk.abbd370a41987fdd60848215c3859bbe.svg",
+    "static/media/scss.svg": "/static/media/scss.67cd0525916c4cdea4eb3abd8ae11137.svg",
+    "static/media/telegram.svg": "/static/media/telegram.7b32e0699fa280a656aa08186d1e6bd5.svg",
+    "static/media/js.svg": "/static/media/js.2cb10113045b7f7423443ff02d1d26d0.svg",
+    "static/media/gmail.svg": "/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
+    "static/media/moon.svg": "/static/media/moon.ce90ea660b4d88ff3e9995e41bf6a39b.svg",
+    "static/media/sun.svg": "/static/media/sun.75ad86a59ac3f9e2f8a8b4a1a28e8a7a.svg",
+    "index.html": "/index.html",
+    "static/media/css-3.svg": "/static/media/css-3.315b8fdb9dbf75ae965b80bf368895cd.svg",
+    "static/media/html-5.svg": "/static/media/html-5.0107c93943a8f415b5db64ebb0a9d12d.svg",
+    "main.d3e18afe.css.map": "/static/css/main.d3e18afe.css.map",
+    "main.0fcc2120.js.map": "/static/js/main.0fcc2120.js.map",
+    "453.19adbc00.chunk.js.map": "/static/js/453.19adbc00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e18afe.css",
+    "static/js/main.0fcc2120.js"
+  ]
+}
